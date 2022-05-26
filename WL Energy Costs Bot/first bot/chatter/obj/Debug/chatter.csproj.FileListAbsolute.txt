@@ -1,0 +1,54 @@
+C:\Personal Files\c#\chatter\chatter\bin\Debug\chatter.exe.config
+C:\Personal Files\c#\chatter\chatter\bin\Debug\chatter.exe
+C:\Personal Files\c#\chatter\chatter\bin\Debug\chatter.pdb
+C:\Personal Files\c#\chatter\chatter\bin\Debug\AIMLbot.dll
+C:\Personal Files\c#\chatter\chatter\obj\Debug\chatter.csprojResolveAssemblyReference.cache
+C:\Personal Files\c#\chatter\chatter\obj\Debug\chatter.exe
+C:\Personal Files\c#\chatter\chatter\obj\Debug\chatter.pdb
+E:\Excol\HND Unit 27 RQF AI\eliza\chatter\bin\Debug\chatter.exe.config
+E:\Excol\HND Unit 27 RQF AI\eliza\chatter\obj\Debug\chatter.exe
+E:\Excol\HND Unit 27 RQF AI\eliza\chatter\obj\Debug\chatter.pdb
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\bin\Debug\chatter.exe.config
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\obj\Debug\chatter.exe
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\obj\Debug\chatter.pdb
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\bin\Debug\chatter.exe
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\bin\Debug\chatter.pdb
+E:\Excol\HND Unit 27 RQF AI\first bot\chatter\bin\Debug\AIMLbot.dll
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\AI\first bot\first bot\chatter\bin\Debug\chatter.exe.config
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\AI\first bot\first bot\chatter\bin\Debug\chatter.exe
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\AI\first bot\first bot\chatter\bin\Debug\chatter.pdb
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\AI\first bot\first bot\chatter\bin\Debug\AIMLbot.dll
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\AI\first bot\first bot\chatter\obj\Debug\chatter.csprojAssemblyReference.cache
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\AI\first bot\first bot\chatter\obj\Debug\chatter.csproj.CoreCompileInputs.cache
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\AI\first bot\first bot\chatter\obj\Debug\chatter.csproj.CopyComplete
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\AI\first bot\first bot\chatter\obj\Debug\chatter.exe
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\AI\first bot\first bot\chatter\obj\Debug\chatter.pdb
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\Workplace Learning\WL Energy Costs Bot\first bot\chatter\bin\Debug\chatter.exe.config
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\Workplace Learning\WL Energy Costs Bot\first bot\chatter\bin\Debug\chatter.exe
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\Workplace Learning\WL Energy Costs Bot\first bot\chatter\bin\Debug\chatter.pdb
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\Workplace Learning\WL Energy Costs Bot\first bot\chatter\bin\Debug\AIMLbot.dll
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\Workplace Learning\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csprojAssemblyReference.cache
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\Workplace Learning\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.CoreCompileInputs.cache
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\Workplace Learning\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.CopyComplete
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\Workplace Learning\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.exe
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HND\Workplace Learning\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.pdb
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\bin\Debug\chatter.exe.config
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\bin\Debug\chatter.exe
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\bin\Debug\chatter.pdb
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\bin\Debug\AIMLbot.dll
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.AssemblyReference.cache
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.CoreCompileInputs.cache
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.CopyComplete
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.exe
+C:\Users\Hannah\Documents\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.pdb
+D:\HND\WL Energy Costs Bot\first bot\chatter\bin\Debug\chatter.exe.config
+D:\HND\WL Energy Costs Bot\first bot\chatter\bin\Debug\chatter.exe
+D:\HND\WL Energy Costs Bot\first bot\chatter\bin\Debug\chatter.pdb
+D:\HND\WL Energy Costs Bot\first bot\chatter\bin\Debug\AIMLbot.dll
+D:\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.CoreCompileInputs.cache
+D:\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.CopyComplete
+D:\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.exe
+D:\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.pdb
+D:\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.AssemblyReference.cache
+D:\HND\WL Energy Costs Bot\first bot\chatter\obj\Debug\chatter.csproj.SuggestedBindingRedirects.cache
